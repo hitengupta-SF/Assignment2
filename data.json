@@ -1,0 +1,62 @@
+[
+    {
+        "ID":"1",
+        "First Name": "HITEN",
+        "Middle Name": "-",
+        "Last Name": "GUPTA",
+        "Email": "123@sourcefuse.com",
+        "Phone": "9156524734",
+        "Role": "SUPERADMIN",
+        "Address": "PUNJAB"
+    },
+    {
+        "ID":"2",
+        "First Name": "HITEN",
+        "Middle Name": "1",
+        "Last Name": "GUPTA",
+        "Email": "12311@sourcefuse.com",
+        "Phone": "9156524334",
+        "Role": "ADMIN",
+        "Address": "HARYANA"
+    },
+    {
+        "ID":"3",
+        "First Name": "HITEN",
+        "Middle Name": "2",
+        "Last Name": "GUPTA",
+        "Phone": " 9156522334",
+        "Role": "SUBSCRIBER",
+        "Address": "MOHALI",
+        "Email": "1231@sourcefuse.com"
+    },
+    {
+        "ID":"4",
+        "Last Name": "GUPTA",
+        "Middle Name": "3",
+        "First Name": "HITEN",
+        "Email": "1235@sourcefuse.com",
+        "Phone": "9154524334",
+        "Role": " SUBSCRIBER",
+        "Address": "NOIDA"
+    },
+    {
+        "ID":"5",
+        "First Name": "HITEN",
+        "Middle Name": "4",
+        "Last Name": "GUPTA",
+        "Email": "127@sourcefuse.com",
+        "Phone": "9156624334",
+        "Role": "SUBSCRIBER",
+        "Address": "RAJPURA"
+    },
+    {
+        "ID":"6",
+        "First Name": "HITEN",
+        "Middle Name": "5",
+        "Last Name": "GUPTA",
+        "Email": "1239@sourcefuse.com",
+        "Phone": "9156555334",
+        "Role": "ADMIN",
+        "Address": "PATIALA"
+    }
+]
