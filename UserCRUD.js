@@ -86,13 +86,13 @@ export class UserCRUD {
       tr.contentEditable = "false";
       targetBtn.innerHTML = "Edit";
       nextSibling.innerHTML = "Delete";
-      this.users[index - 1].id = tr.childNodes[0].textContent;
-      this.users[index - 1].firstName = tr.childNodes[2].textContent;
-      this.users[index - 1].middleName = tr.childNodes[4].textContent;
-      this.users[index - 1].lastName = tr.childNodes[6].textContent;
-      this.users[index - 1].email = tr.childNodes[8].textContent;
-      this.users[index - 1].phone_no = tr.childNodes[12].textContent;
-      this.users[index - 1].address = tr.childNodes[14].textContent;
+//       this.users[index - 1].id = tr.childNodes[0].textContent;
+//       this.users[index - 1].firstName = tr.childNodes[2].textContent;
+//       this.users[index - 1].middleName = tr.childNodes[4].textContent;
+//       this.users[index - 1].lastName = tr.childNodes[6].textContent;
+//       this.users[index - 1].email = tr.childNodes[8].textContent;
+//       this.users[index - 1].phone_no = tr.childNodes[12].textContent;
+//       this.users[index - 1].address = tr.childNodes[14].textContent;
     }
   }
   delete(e) {
