@@ -29,9 +29,10 @@ table,td,tr{
     font-size:x-large;
     width:fit-content ;
     border-collapse: collapse;
+    text-align: center;
 }
 
-.edit, .dlt{
+.edit, .dlt,.cancel{
     font-size: 20px;
     border-radius: 0.25rem;
    background-color:silver;
@@ -40,4 +41,8 @@ table,td,tr{
 .tr:hover{
     background-color: rgb(139, 137, 137);
     color: whitesmoke;
+}
+.cancel
+{
+    display:none;
 }
