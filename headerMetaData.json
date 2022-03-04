@@ -1,10 +1,10 @@
 [
     {"name":"ID","id":"ID"},
-    { "name": "first_Name", "id": "First Name" },
-    { "name": "middle_Name", "id": "Middle Name" },
-    { "name": "last_Name", "id": "Last Name" },
+    { "name": "firstName", "id": "First Name" },
+    { "name": "middleName", "id": "Middle Name" },
+    { "name": "lastName", "id": "Last Name" },
     { "name": "email", "id": "Email" },
-    { "name": "phone_Number", "id": "Phone Number" },
+    { "name": "phoneNumber", "id": "Phone Number" },
     { "name": "role", "id": "Role" },
     { "name": "address", "id": "Address" }
   ]
